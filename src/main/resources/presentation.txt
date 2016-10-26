@@ -1,0 +1,22 @@
+1. Tests are documentation - naming, readability
+2. Documentation annotations in Spock
+
+1. Spock uses the JUnit runner - integration is easy
+2. Spock can work with Java - you can add Spock test to an existing Java project with JUnit tests
+
+
+
+10. HTML reports
+    mvn clean test
+    mvn site
+
+
+Groovy & Spock:
+ * easy to read and understand
+ * easy to write
+ * easy to learn
+
+Java & JUnit:
+ * well understood standards
+ * typesafe and performant
+ * better supported by IDEs

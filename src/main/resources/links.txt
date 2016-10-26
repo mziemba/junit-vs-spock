@@ -1,0 +1,6 @@
+Spock Documentation: docs.spockframework.org/
+Idiomatic Spock: https://www.youtube.com/watch?v=RuTupC0I59M
+Spock versus JUnit: http://codepipes.com/presentations/spock-vs-junit.pdf
+AssertJ: http://joel-costigliola.github.io/assertj/
+JUnitParams: https://github.com/Pragmatists/JUnitParams
+Is Groovy better for testing than Java?: https://www.youtube.com/watch?v=VK2sMI5B1pY
